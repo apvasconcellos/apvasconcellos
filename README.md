@@ -12,23 +12,27 @@
 
 <br>
 
-## GitHub Stats
+## :cloud: GitHub Stats
 
 <br>
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=onedark)](https://github.com/iuricode/)
     
-## Find me on
+## :rocket: Find me on
 
-<a href="https://github.com/apvasconcellos"><img src="https://camo.githubusercontent.com/c500e7fc3a11b26a92dd4fecc56586c3f1642bc3e7bd4eb35414e66b8d43b889/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f6c6f676f3d476974487562267374796c653d666f722d7468652d6261646765">
+<a href="https://github.com/apvasconcellos"><img src="https://github.com/apvasconcellos/svg/blob/master/github.svg">
 <img src="https://camo.githubusercontent.com/97ab65d067c3b5bde7edf11c442fdb9ee797d06e6c567f9608b74ec39f088b1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d626c7565" /></a>
 
-## ⚒Languages and Tools:
-#### :writing_hand:Learning day by day.
+## ⚒Languages, Tools and Frameworks:
+#### :writing_hand:Learning day by day;
 
-<img width='20%' height=28  src="https://camo.githubusercontent.com/db1f168384bc44c31d7c2c322962086a91afbf934ea07c7d6c5ce82b44d6ad65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d2532333132313030452e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d626c7565" > <img width='68.75 height=28'  src="https://camo.githubusercontent.com/0b36a8d778abb07e24933334702bb9a8171f1d40a470feacdc9efd9811f4fabd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d2532333132313030452e7376673f6c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d726564267374796c653d666f722d7468652d6261646765" > <img src="https://camo.githubusercontent.com/c500e7fc3a11b26a92dd4fecc56586c3f1642bc3e7bd4eb35414e66b8d43b889/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f6c6f676f3d476974487562267374796c653d666f722d7468652d6261646765"> <img src="https://github.com/apvasconcellos/apvasconcellos/blob/main/node.svg">
+<img width='20%' height=28  src="https://camo.githubusercontent.com/db1f168384bc44c31d7c2c322962086a91afbf934ea07c7d6c5ce82b44d6ad65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d2532333132313030452e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d626c7565" > <img width='68.75 height=28'  src="https://camo.githubusercontent.com/0b36a8d778abb07e24933334702bb9a8171f1d40a470feacdc9efd9811f4fabd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d2532333132313030452e7376673f6c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d726564267374796c653d666f722d7468652d6261646765" > <img src="https://github.com/apvasconcellos/apvasconcellos/blob/main/node.svg"> <img src="https://github.com/apvasconcellos/svg/blob/master/css.svg"> <img src="https://github.com/apvasconcellos/svg/blob/master/express.svg"> 
+<img src="https://github.com/apvasconcellos/svg/blob/master/github.svg"> <img src="https://github.com/apvasconcellos/svg/blob/master/html.svg"> <img src="https://github.com/apvasconcellos/svg/blob/master/insomnia.svg"> <img src="https://github.com/apvasconcellos/svg/blob/master/mysql.svg"> <img src= "https://github.com/apvasconcellos/svg/blob/master/javascript.svg">
 
-###
+
+| <img src= "https://github.com/apvasconcellos/svg/blob/master/javascript.svg">   |      <img src="https://github.com/apvasconcellos/svg/blob/master/html.svg">     |  <img src="https://github.com/apvasconcellos/svg/blob/master/css.svg"> |  <img src="https://github.com/apvasconcellos/apvasconcellos/blob/main/node.svg"> | <img src="https://github.com/apvasconcellos/svg/blob/master/express.svg">  
+| ----------------------- |--------------------------------------------------------- | --------------------- |--------------------- | -------------------- |
+|      <img width='68.75 height=28'  src="https://camo.githubusercontent.com/0b36a8d778abb07e24933334702bb9a8171f1d40a470feacdc9efd9811f4fabd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d2532333132313030452e7376673f6c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d726564267374796c653d666f722d7468652d6261646765" >     | <img height=28  src="https://camo.githubusercontent.com/db1f168384bc44c31d7c2c322962086a91afbf934ea07c7d6c5ce82b44d6ad65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d2532333132313030452e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d626c7565" > | <img src="https://github.com/apvasconcellos/svg/blob/master/github.svg"> | <img src="https://github.com/apvasconcellos/svg/blob/master/insomnia.svg"> | <img src="https://github.com/apvasconcellos/svg/blob/master/mysql.svg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apvasconcellos&label=Profile%20views&color=0e75b6&style=flat" alt="apvasconcellos" /> </p>
 
