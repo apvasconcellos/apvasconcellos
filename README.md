@@ -20,8 +20,8 @@
     
 ## :rocket: Find me on
 
-<a href="https://github.com/apvasconcellos"><img src="https://github.com/apvasconcellos/svg/blob/master/github.svg">
-<img src="https://camo.githubusercontent.com/97ab65d067c3b5bde7edf11c442fdb9ee797d06e6c567f9608b74ec39f088b1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d626c7565" /></a>
+<a href="https://github.com/apvasconcellos"><img src="https://github.com/apvasconcellos/svg/blob/master/github.svg"></a>
+<a href= "https://www.linkedin.com/in/ana-paula-vasconcellos-666927186/"><img src="https://camo.githubusercontent.com/97ab65d067c3b5bde7edf11c442fdb9ee797d06e6c567f9608b74ec39f088b1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d626c7565" /></a>
 
 ## ⚒Languages, Tools and Frameworks:
 #### :writing_hand:Learning day by day;
