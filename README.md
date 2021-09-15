@@ -14,7 +14,7 @@
 
 ## :cloud: GitHub Stats
 
-<br>
+
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=onedark)](https://github.com/iuricode/)
     
